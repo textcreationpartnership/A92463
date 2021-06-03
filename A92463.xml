@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the commissioners, appointed by the Kings Maiesty and Parliament of Scotland, for conserving the articles of the treaty and peace betwixt the kingdomes of Scotland and England. With two letters sent to His Majesty, by the Lords of his Privy Councell, wherein the councell doth recommend to His Majesty the desires of the said commissioners: and the petition of the commissioners of the General Assembly.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92463</idno><idno type="EEBO-CITATION">99865936</idno>
+  <idno type="VID">158420</idno>
+  <idno type="EEBO-PROQUEST">2248495906</idno>
+  
+            <idno type="STC">Wing S1007B</idno>
+            <idno type="STC">Thomason E247_28</idno>
+            <idno type="PROQUEST">99865936</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865936e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158420)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E247[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the commissioners, appointed by the Kings Maiesty and Parliament of Scotland, for conserving the articles of the treaty and peace betwixt the kingdomes of Scotland and England. With two letters sent to His Majesty, by the Lords of his Privy Councell, wherein the councell doth recommend to His Majesty the desires of the said commissioners: and the petition of the commissioners of the General Assembly.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Scotland. Privy Council. aut</author>
+               </titleStmt>
+               <extent>8, 7-12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Math. Walbancke and Phil. Lane, at Grays-Inne Gate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "Ap: 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:158420:1"/>
+            <p>THE PROCEEDINGS OF THE COMMISSIONERS, Appointed by the Kings Maiesty and Parliament of <hi>Scotland,</hi> for conserving the Articles of the Treaty and peace betwixt the Kingdomes of <hi>Scotland</hi> and <hi>England.</hi>
+            </p>
+            <p>
+               <hi>WITH</hi> Two Letters sent to His Majesty, by the Lords of his Privy Councell, wherein the Councell doth re<g ref="char:EOLhyphen"/>commend to His Majesty the desires of the said Commis<g ref="char:EOLhyphen"/>sioners: and the Petition of the Commissioners of the Generall Assembly.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Math. Walbancke</hi> and <hi>Phil. Lane,</hi> at <hi>Grays-Inne</hi> Gate, 1643.</p>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:158420:2"/>
+            <opener>
+               <dateline>At <hi>Edinburg</hi>
+                  <date>the last day of <hi>March,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Commissioners</hi> appointed by the Kings Majesty, and Parliament of this Kingdom, for conserving the peace betwixt the two Nations, having in discharge of that great and necessary trust reposed in them, sent some of their own number to deal with his Majesty, and the Par<g ref="char:EOLhyphen"/>liament of England for setling these unhappy differences that are arisen in that Kingdom, and having at severall meetings still expected to heare of their progresse in so good a work; Yet contrary to their expectation, they finde that all meanes of intelligence is taken away betwixt them, so as they who are sent, are no more able to return to the Commissioners an accompt of their diligence and endea<g ref="char:EOLhyphen"/>vours, than the Commissioners themselves can imagine what may be conceived to be a<g ref="char:EOLhyphen"/>misse in the Commission and Instructions sent with them. But in regard that the usage and successe, whatsoever it shall be at this time, is the true touch-stone and undeniable evidence for this whole Kingdom, what they may expect in the growth and increase of these troubles of their Brethren in England: And because even in this Kingdom, all that are enemies to the peace and Reformation established within the same, are set on work of purpose, to spread false reports in all the corners of the Land, for strengthening the wicked and malignant party and weakning the minds and hands of all honest men; and happely at this time are spreading false pretences of the hard and unexpected re<g ref="char:EOLhyphen"/>straint of these that are imployed in Commission to his Majesty, and Parliament of En<g ref="char:EOLhyphen"/>gland, as if they were warranted by the Commissioners who sent them, to seek such things, as were not fit for his Majesty to grant, or this Kingdom to crave. Therefore the said Commissioners for conserving the peace, have thought fit, that for the right in<g ref="char:EOLhyphen"/>formation of all whom it concernes, this following Copy of their proceedings be forthwith printed and published, that thereby the Commissioners themselves may have from all honest men that love the Truth and the intended Reformation in England, a testimony and approbation that they have do us their duty, these who are imployed from them, may be the more encouraged to go on against all straits and difficulties, in pursuance of so necessary desires; without the obtaining of which, the present peace and happinesse of this Nation, cannot in all likelyhood long continue: And this whole Kingdom may have the true grounds of their resentment, in behalf of these who represent them and all their desires at this time.</p>
+            <closer>
+               <signed>Arch. Primerose <hi>Cler. Commission.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:158420:2"/>
+            <head>His MAJESTIES Letter, Directed to the Commissioners at their first meeting in September, 1642.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>RIght trusty and wel-beloved Cousins and Counsellors, right trusty and trusty and wel-beloved Counsellors, and trusty and wel-beloved, We greet you well. Having been informed that upon petition of the Com<g ref="char:EOLhyphen"/>missioners from our late generall Assembly is our Councell though<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fit that you should meet, for discharge of that trust imposed on you by us and our Parliament, whereby all fair means may be used to prevent such troubles and di<g ref="char:EOLhyphen"/>visions as may interrupt or endanger the common peace of our Kingdoms: And as it ought to be the continuall study, and care of all good and pious Princes to preserve their people; So certainly it is the duty of all loyall &amp; faithfull Subjects to maintain the greatnesse and just Authority of their Princes; so that without this reciprocall endeavour, there can be no happinesse for the Prince, nor security for the people. We are confident our late Actions in Scotland, will to all posteri<g ref="char:EOLhyphen"/>ty be an acceptable witnes of our care in preserving the liberty of these our Sub<g ref="char:EOLhyphen"/>jects, and our desire to settle a perfect peace in that our Kingdom: And we are as confident, that the many good Acts we have past here since the down-sitting of this Parliament (indeed denying none out such as denyed as any power at all, and were never so much as demanded from any of our predecessors) wil bear the like testimony of our affection to the good &amp; peace of this Kingdom, though the successe hath not been alike. For though we have used our best endeavours to prevent the present distractions and threatning dangers, yet so prevalent have been the opposers of us, and the peace of our Kingdomes, as not so much as a Treaty can be obtained (though by our severall messages we have descended to demand and presse it) unlesse upon such conditions as would, either by taking all power of governement from us, make us as no King; or by forceing us to quit the protection of such, as (for obeying us accordind to Law and their oath of al<g ref="char:EOLhyphen"/>legeance) they would have Traitors, and so make us do an Act unworthy of a King: Yet so desirous we are to save our Subjects bloud, (which cannot but be prodigally spent, if we be necessitated by Force of Arms to decide their unhappy differences) that no sooner any such Treaty shall be offered unto us by them (which with honour and safety we can receive) but we shall cheerfully embrace it. This we have thought fit to acquaint you withall, that from our selves you may know our love to peace and we doubt not but your meeting at this time will produce something which will witnesse your tender respect to our honour and safety. And so much do we confide in your affections, as we shall absolutely caye the wayes and means of expressing it to your selves. So we bid you hearti<g ref="char:EOLhyphen"/>ly farewell.</p>
+            <closer>
+               <dateline>From our Court at Stafford <date>the <hi>18.</hi> of September, <hi>1642.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="reply">
+            <pb n="4" facs="tcp:158420:3"/>
+            <head>The COMMISSIONERS Answer to His MAJESTIES Letter.</head>
+            <opener>
+               <salute>Most sacred Soveraigne,</salute>
+            </opener>
+            <p>AS we esteem it a speciall mark of your Royall Favour, that your Majesty is graciously pleased from your self to acquaint us with your love to peace, and that your Maiesty thinks that the continuall care and study of all good and pious Princes, ought to be the preservation of their people; So do we with all thankfulnesse acknowledge, that it is the duty of all faithfull and loyall Subiects, to maintain the greatnesse and just authority of their Princes. And lest the dangerous differences betwixt your Maiesty, and your Parliament, should any longer eclipse your Maiesties Favour from your good Subiects, or weaken that wherein doth chiefly consist your Maiesties greatest strength, the affections of your people; we are constrained (from the conscience of our duty, from our love to your Royall Person, from the sense of Princely benignity, and for discharge of that trust imposed on us by your Maiesty, and the Parliament) to endeavour by all fair means, and so far as in us lyes, to remove those unhappy troubles and divisions, which may interrupt, and (as we conceive) do really en<g ref="char:EOLhyphen"/>danger the common peace of your Kingdoms, so far as if by the wisdom of your Maiesty, and your Parliament, there be not a more amicable decision, than by the sword, cannot but in end produce effusion of bloud, and a world of greater cala<g ref="char:EOLhyphen"/>send some of our number for our selves, and (according to the trust committed unto us) in name and behalf of this Kingdom, to tender our best service and en<g ref="char:EOLhyphen"/>deavours, or removing of these unhappy distractions. And in regard of the present posture of that Kingdom, wherein Armies and Troopes are on foot, through the severall parts thereof; and that these who shall be sent from this, may without danger repaire to your Maiesty, and your Parliament, we desire that a safe conduct may be sent to them: For which end also we have addressed our desire to the Parliament, as will appear to your Maiesty, by the Copy of that which we have sent to them, and will be shewn to your Maiesty by the Lord Secretary. Which being granted and returned, we intend (with Gods assistance) to walke in this great businesse with that dutie and integritie as may give reall demonstration to the world of our high respect of your Maiesties greatnesse, ho<g ref="char:EOLhyphen"/>nour, and fafety, and of our true affection to the prosperity and peace of your Kingdomes which is, and ever shall be the earnest desire and continuall care of your Maiesties most humble and faithfull Subiects and Servants.</p>
+            <closer>
+               <dateline>
+                  <hi>Edinburgh,</hi>
+                  <date>29. <hi>Semptember</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="5" facs="tcp:158420:3"/>
+            <head>Declaration sent from the Commissioners to the Parl. of England.</head>
+            <p>THe Noble-men, Barons, and Burgesses, Commissioneas appoynted by His Majesty and Estates of Parliament of the Kingdom of Scotland, for con<g ref="char:EOLhyphen"/>serving the peace so happily established betwixt the two Kingdoms, being met at <hi>Edinburg,</hi> Septem. 29, 1642. and entring into such serious consideration, both of their interest and duty, as the importance of so great affairs, and the present condition of the kingdoms do require, They find themselves bound, not only by the common bonds of the Law of nature and of Christian duty, to follow after the things which make for conservation of peace, and preventing of trouble, But also by the more speciall Bond of their nationall Oath, and the publike Faith of the Parliament of this kingdom, in all just and honourable ways to endevour the preservation of the union betwixt the kingdoms of Scotland and England; And not only this bond, but authorised also by the late Treaty, and by their Com<g ref="char:EOLhyphen"/>mission to be carefull (during the intervall betwixt the sitting of the Parlia<g ref="char:EOLhyphen"/>ments of this kingdom) that the Peace betwixt the two kingdoms be continu<g ref="char:EOLhyphen"/>ed, and to endeavour by all good means to prevent all trouble and division. And if any debate or difference shall happen to arise, which may tend to the distur<g ref="char:EOLhyphen"/>bance of the common peace, to labour to remove, or compose the same, according to the power granted unto them; And if any thing shall fall forth, which is a<g ref="char:EOLhyphen"/>bove their power, and which cannot be remedied by them, To represent the same to his Maiesty and the Parliaments <hi>respective,</hi> That by their wisdom and authori<g ref="char:EOLhyphen"/>ty all occasions and causes of trouble being removed, the peace of the kingdoms may be perpetuate to all posterity: In performing of which weighty and neces<g ref="char:EOLhyphen"/>sary duty, they must give an account of their diligence and faithfulnesse to the next ensuing Parliament. And considering the imminent dangers and calamities which the great differences, and distractions betwixt His Maiesty and his Parliament of England, may bring upon that Kingdom, and by consequence up<g ref="char:EOLhyphen"/>on this, their interest in His Maiesty, their native Soveraign being such, that they are neerly concerned in the safety of His royall person, and iust authority: And such their relation to England, that the preservation of the liberty and peace of that kingdom, doth much import to the preservation of the Religion, liberty, &amp; peace of this; the union of the two kingdoms being so strict in the Bonds of nature, religion, and policy, that they cannot but share in the prosperity and calamities of each other: So, that if these differences betwixt the King and his Parliament, shall come, by force of Arms, and by the effusion of bloud, to be deci<g ref="char:EOLhyphen"/>ded (which God forbid) the kingdom of Scotl. cannot but in the end be invol<g ref="char:EOLhyphen"/>ved in that common calamity. They therefore from the deep sense and feeling they have of the apparent danger of His Maiesties person, and the ruine where<g ref="char:EOLhyphen"/>with
+<pb n="6" facs="tcp:158420:4"/>with His kingdoms are threatned, Have Resolved by all good means to acquit themselves of that duty they owe to God by their Nationall Oath to their So<g ref="char:EOLhyphen"/>veraigne by their allegeance, and their greatest native interest in His Royal per<g ref="char:EOLhyphen"/>son, To their brethren of England by their publike faith; and the strictest bonds of the allyance of the kingdomes, in the prosperity and sufferings of each other, and by their like care exprest towards this kingdome in the time of their trou<g ref="char:EOLhyphen"/>bles, And to their Countrey by nature, and the trust reposed in them by the Par<g ref="char:EOLhyphen"/>liament of this Kingdome, to which they cannot be answerable, if they shall be silent at this time, and sit still as idle beholders: by contributing their best ende<g ref="char:EOLhyphen"/>vours to prevent all troubles and division: and labouring with all tendernesse according to their power, to Remove these differences and distractions, which doe evidently tend to the disturbance of the common peace of the kingdoms; And by representing these imminent dangers and calamities, to His Majesty and the Parliament of England, that by their wisdom all these occasions, and causes of troubles being removed, the peace of the Kindoms may be preserved, for which purpose they will never shun any pains or travaile: And at this time lest the evils be more incurable afterward, they have thought fit to send up to His Majesty and the Parliament some of their number: And that they in these com<g ref="char:EOLhyphen"/>motions of souldiers, and people in Armes, may repair thither with the greater safety, doe desire, that there be granted to them a safe conduct by His Maiesty &amp; the Parliament of England, that no good means may be left un-assayed, whereby both kingdoms may attain to their desired end of Honour and Happinesse to His Maiesty, and unitie and peace amongst themselves.</p>
+         </div>
+         <div type="letter">
+            <head>His Majesties second Letter to the Commissioners.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>RIght trusty and wel-beloved Cousins, and Councellors, right trusty, and trusty and well-beloved Counsellors, and trusty and well-beloved, Wee greet you well. By your Letter the <hi>29.</hi> of Septemb. We conceive bow sensible you are of the present distra<g ref="char:EOLhyphen"/>ctions of this kingdome, which cannot be a greater griefe to any than to Our selfe: But seeing all the meanes we could possibly use for the Removall thereof are (by the practi<g ref="char:EOLhyphen"/>ces of such as s<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dy division) prevented, and all Our Offers of treating (in a fayr way to sttle these distempers) slighted and not Regarded; Wee are for the defence of true Religion, and the maintaynance of the Liberties of the Subject, the priviledge of Par<g ref="char:EOLhyphen"/>liamet, and Our iust, and ever till now unquestioned Authority) necessitate to Our self in the posture we are now in, and We shall no further beg a blessing from God on our pro<g ref="char:EOLhyphen"/>ceedings, than We intend the preservation of these.</p>
+            <pb n="7" facs="tcp:158420:4"/>
+            <p> As for your resolution of sending here some of your number. We see no reason why they should apprehend any danger in their repair to Vs; for they may be confident to have a safe &amp; free accesse to our person, which we have never denyed to any of Our good subjects who repapired to Ʋs in a dutifull manner, and were not out of our protection, Therefore We conceive the granting of a safe conduct to any such absolutely non-necessary: But if they apprehend any danger from the present disorders of this kingdome, and Armies now on foot, We will grant such a Passe both for their comming and returne, as We or<g ref="char:EOLhyphen"/>dinarily give to any of Our subjects or servants for passing through Our Garison Townes or Armies: which we doubt not will both secure them, and satisfie you. So We bid you heartily farewell.</p>
+            <closer>
+               <dateline>From Gut Court at Bridgenorth <date>the 13. of October. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="reply_to_declaration">
+            <head>The Parliament of <hi>Englands</hi> Answer to the Comissioners Declaration of the 28. of <hi>September.</hi> 1642.</head>
+            <p>VVE the Lords and Commons in Parliament of England having duely consi<g ref="char:EOLhyphen"/>dered the Proposition made to us by the Noblemen, Barons, and Burgesses, Commissioners appoynted by His Majesty, and the Estates of the Parliament of the Kindome of Scotland, agreed upon at Edinburgh, the <hi>29.</hi> of Sept. <hi>1642.</hi> doe acknow<g ref="char:EOLhyphen"/>ledge their wisedome and brotherly affection therein expressed, for conservation of the Peace of this kingdom, according to the late Treaty, ratified in the Parliaments of both kingdoms: And that they being equally interested in the cause of these troubles, That is, the malignant designes now in hand, by force of Armes to hinder Reformation of Religi<g ref="char:EOLhyphen"/>on, and Church-government, and to introduce popery and superstition, cannot long bee free from the consequences thereof, The like combustions and commotions in that King<g ref="char:EOLhyphen"/>dome, if the popish and malignant party prevaile here: And doe well approve the ten<g ref="char:EOLhyphen"/>dernesse and care of troubles and dangers, as being agreeable to the Intention of that Act, and answerable to the like care lately expressed by this Parlament in their toubles. And whereas for discharge of that mutuall trust, which by the forementioned action of Pacification, is reposed in the Commissioners of both the kingdomes <hi>respective,</hi> They have thought fit to send some of this number to his Maiesty, and this Parliament; and for the better security in these times of commotions of Souldiers and people in Armes, we have resolved, that we the Lords and Commons shall grant them a safe conduct, as is desired in theio Proposition afore-mentioned, excepting out of the same <hi>Iames</hi> Duke of Lenox, and <hi>Robert</hi> Earle of <hi>Roxborough,</hi> being both Delinquents to this Parlia<g ref="char:EOLhyphen"/>ment. And that we will concur with the Commissioners of the state in all good means, for the preservation of Gods true Religion, the honour and happinesse of his Majesty the just right and liberties, together with the peace, prosperity, and unity of both the Kingdomes.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octoct. 20. 1642.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Subscribitur</hi> Jo Brown. <hi>Cler. Parl.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="ordinance">
+            <pb n="8" facs="tcp:158420:5"/>
+            <head>An Ordinance of the Lords and Commons in Parliament, for the security and safe conduct of the Commissioners of the Realme of Scotland, for the conservation of the Peace made <hi>24.</hi> Octob. <hi>1642.</hi>
+            </head>
+            <p>VVHereas in pursuance of the Act of Pacification and Oblivion, made in the 17. yeare of His Maiesties Raigne, divers Noble-men, Barons, and Burgesses, have been nominate and apoynted by his Maiesty, and Estates of Par<g ref="char:EOLhyphen"/>liament of the kingdome of Scotland, to be Commissioners for the Conservati<g ref="char:EOLhyphen"/>on of the peace of both the kingdoms, who have thought good to send being some of their owne number, to His Maiesty, and this Parliament, in dis<g ref="char:EOLhyphen"/>charge of that trust reposed in them by that act of Pacification, for their better surety in these times of commotion of souldiers &amp; people in Arms, it is ordayned by the Lords and Commons in Parliament, that the said Commissioners which are to be sent as afore, with all their servants and retinue, shall be protected by the power and authority of Parliament, and kept safe and free from all danger, molestation, restraint, and detention in their repair to Lord. and during their a<g ref="char:EOLhyphen"/>bode here, and in their return back again. And for the further notice and mani<g ref="char:EOLhyphen"/>festation hereof it is ordered, that the Speakers of both the houses shal subscribe this full and free safe conduct &amp; safeguard to the persons above wrtiten, where<g ref="char:EOLhyphen"/>by they may be secured from all harm and restrain in their passage, abode, and repasse, to be interpreted in all large and ample, and beneficiall manner, and with all full and reall assurance, as ever any safeguard or safe conduct, may, or ought to be interpreted, strengthned and confirmed by the publike Faith of the King<g ref="char:EOLhyphen"/>dom; and that any Copy hereof under the hands of both, or either the Clerks of the Lords or Commons houses shall be of as great force and effect, for the safe conduct, and securing of the sayd persons, or any of them, their retinue and servant, as the Originall signed by the Speakers, as is before exprest. Requiring all Officers and souldiers in the Army, as likewise all Sheriffes, and Majors, and other his Maiesties loving subiects, to observe the same with all due obedience and care: And likewise to give them all ayd and assistance, as often as occasion shall require, as they will answer the contrary at their perill, It is further orday<g ref="char:EOLhyphen"/>ned, as before, That <hi>James</hi> Duke of <hi>Lenox,</hi> and <hi>Robert</hi> Earle of <hi>Roxborough,</hi> shal be excepted out of this present safe conduct, and shall receive no benefit nor pro<g ref="char:EOLhyphen"/>tection by the same.</p>
+            <closer>
+               <signed>Gray <hi>of Wark, Speaker of the House of Peeres.</hi>
+                  <lb/> William Lenthal, <hi>Speaker of the House of Commons.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:158420:5"/>
+            <head>The Commissioners second Letter to his Majesty for a safe conduct.</head>
+            <opener>
+               <salute>Most sacred Soveraigne.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S the high respect we owe to Your Majesty, and the trust put upon us for preserving the common peace of this Kingdom, did lay a necessity on us to offer our best service for remo<g ref="char:EOLhyphen"/>ving these unhappy troubles and divisions betwixt Your Majesty, and Your Parliament, and to crave a safe conduct for such persons, as to that end were to repaire to Your Ma<g ref="char:EOLhyphen"/>jesty, so the sense of the same duty had affection, makes us to <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ow our earnest and humble desire, for the reasons more fully exprest in our letters to Your Majesties Secretary. and to the Earle of Lindsay. And your Ma<g ref="char:EOLhyphen"/>jesty manifesting, that the service which we offer, is acceptable to your Majesty, will be a great encouragement to enable us with the more cheerfulnesse to goe about the performe not of that duty, which in a time of so imminent dangers wee aye, to your Majesty, and the peace of your Kingdomes. And so praying God to blesse your Majesty with a prosperous reigne over us, we rest your majesties most humble and faithfull Subjects and Servants.</p>
+            <closer>
+               <dateline>
+                  <hi>Edinburg</hi>
+                  <date>16. <hi>November</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Commissioners Letter to the Earle of <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rick his Majesties Secretary.</head>
+            <opener>
+               <salute>Our very Honourable good Lord.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE have at length considered the Letter sent from His Majesty to us concerning a safe conduct to such as shall be imployed by us, con<g ref="char:EOLhyphen"/>form to our Letters to His Majesty of of 29. Sept. last. But finding the same to be so dubious, as we cannot perceive a clear approbation from His Majesty of our sending and mediation, nor yet a safe con<g ref="char:EOLhyphen"/>duct sent unto us, we have deserred at this time to send up any (although the par<g ref="char:EOLhyphen"/>liament have declared their willingnesse both in their answer and safe conduct, as will appeare by the inclosed Copies thereof) till His Majesties further pleasure be known: Yet the present posture of affaires there, in respect of the great distracti<g ref="char:EOLhyphen"/>ons, Our interest in His Majesties Person, and common peace of their Kingdomes, The conscience of our intentions, The confidence we have of his Majesties justice and goodnesse, and our resolution to carry our selves in such a dutifull way as be<g ref="char:EOLhyphen"/>commeth his Majesties loyall Subjects, zealous of his Honour, and the desire we have, that the offer of our service may be acceptable to His Majesty, enforceth us again at this time to pursue our former desires to his Majesty, by this inclosed Let<g ref="char:EOLhyphen"/>ter: which we desire your Lordship to present to his Majesty with the first conve<g ref="char:EOLhyphen"/>niencie; and therewithall to sollicite, that his Majesty may be pleased more fully to expresse His acceptation of this our service and mediation, and to grant us a safe Passe under his royall Hand and Seal, which must be drawn in such a way, as may fully secure these who are to be imployed in their repair thither, abode there, and
+<pb n="8" facs="tcp:158420:6"/>returne again, and that some authentick doubles be also sent thereof. Wherein ex<g ref="char:EOLhyphen"/>pecting your Lordships care, we rest your Lordships assured friends.</p>
+            <closer>
+               <dateline>
+                  <hi>Edinburgh</hi>
+                  <date>16. <hi>November</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>His Majesties safe conduct.</head>
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Commissioners appointed by Us and Our Parliament of Scotland, for preserving the Articles of the Treaty, have thought fit to send unto Us being some of their number. Therefore (for their better security in these times of commotions of Souldiers, and people in Arms) We have thought fit to declare to all Our Officers and Souldiers of Our Armies, Sheriffs, Majors, and all others Our Subjects whatsoever, That Wee have taken, like as by their presents Wee doe take the saids Commissioners, and any others their adjuncts hereafter, being of their owne number, with all their meniall and domesticke servants and atten<g ref="char:EOLhyphen"/>dants, into Our Royall protection and safeguard: Assuring them upon the Roy<g ref="char:EOLhyphen"/>all Word and Faith of a Prince, that the aforesaid their persons servants, and whole retinue foresaid, shall bee safe and free from all danger, molestation, restraint, or devention in their repaire to Us, Our houses Par<g ref="char:EOLhyphen"/>liament, or any part of Our Kingdome of England, abode therein, and in their re<g ref="char:EOLhyphen"/>turne to Scotland at their pleasure. And for the further assurance hereof, We are graciously pleased to signe, and cause affix Our Signet to this Our full and free safe conduct and safeguard, to the persons above-named, their saids adjuncts, servants, and retinue aforesaid, from all harm and restraint in their comming, abode in this Kingdome, and return to Scotland in als ample a meaning and reall assurance, as ever any safeguard or safe conduct, with all the clauses thereof, in this, or any other Kingdome, doth import and that a Copy hereof, under the hand of Our principall Secretaries of State, shall be of als great force and effect, for the safe conduct and securing of their persons, or any of them, their retinue and servants aforesaid, as this Originall signed by Our Royall Hand, and under Our Signet. And We ordaine this Our safe conduct to be publickly intimated to all the Officers and Souldiers of Our Armies, Sheriffs, Majors, and all others Our Subjects, whereby none doe pretend ignorance of the same: Requiring and commanding them to observe and give ready obedience hereunto or to a Copy hereof, (so attested under the hands of any of Our principall Secretaries of State) as they will answer upon the con<g ref="char:EOLhyphen"/>trary at their highest perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Oxford, <date>2. <hi>December, in</hi> 18. <hi>yeare of Our Reigne,</hi> 1642.</date>
+               </dateline>
+               <salute>To all Generalls of our Armies, Lieutenents Generalls, Commaners of Our Townes, Forts, and Castles, and all other Officers and Souldiers in Our Armies, Sheriffs, Majors, and all other Our living Subiects whatsoever, whom these pre<g ref="char:EOLhyphen"/>sents may concerne.</salute>
+            </closer>
+         </div>
+         <div type="statement">
+            <pb n="9" facs="tcp:158420:6"/>
+            <head>The Commission and Instructions given to the Lord Chauncellour, &amp;c. <date>
+                  <hi>18</hi> Ianuary, <hi>1643.</hi>
+               </date>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Commissioners, appointed by the Kings Majesty &amp; Estates of Parliament of the Kingdome of Scotland, finding our selves warranted and obliged by our Commission, and by the late Trea<g ref="char:EOLhyphen"/>ty betwixt the two Kingdomes, to use all good meanes, and to contribute our utmost endeavours for unity of Religion and Uni<g ref="char:EOLhyphen"/>formity of Church-government within his Majesties Dominions, and for remo<g ref="char:EOLhyphen"/>vall of the differences betwixt His Majesty and his Houses of Parliament, and be<g ref="char:EOLhyphen"/>ing willing to acquit our selves, according to the trust reposed in us by our Com<g ref="char:EOLhyphen"/>mission, and to leave nothing undone, whereby wee may discharge our consciences to God, and our duty to His Majestie our Native Soveraign, to te<g ref="char:EOLhyphen"/>stifie our affections to our Brethren in England, and provide for the Peace be<g ref="char:EOLhyphen"/>twixt the two Kingdomes, Have given and granted, and by the Tenour hereof gives and grants full power to <hi>Iohn</hi> Earle of <hi>Lowdon,</hi> Lord High Chauncellour, <hi>Iohn</hi> Earl of <hi>Lindsey,</hi> Sir <hi>Archibald Iohnston</hi> of <hi>Waristoun,,</hi> and Mr. <hi>Robert Barclay,</hi> Provost of <hi>Irwing,</hi> or to any two of them, the Lord Chancellour being one of the two, and to such others as from time to time shall be joyned to them by our Warrant, to reprair to the Kings Majesty and Houses of the Parliament of England, and to use their best endeavours for effectuating the particular above written, and all that may advance the same, conforme to the particular Instructi<g ref="char:EOLhyphen"/>tions given, or to be given to them for that effect, firme and stable, holding and for to hold, all and whatsoever things shall be lawfully done herein, according to their Instructions. In witnesse whereof we have subscribed their presents, with our hands.</p>
+            <closer>
+               <dateline>At <hi>Edinburg,</hi>
+                  <date>18. January.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="instructions">
+            <head>Instructions given by the Commissioners appointed by the Kings Majestie &amp; Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland,</hi> for conserving the Articles of the Treaty, and Common peace betwixt the Kingdomes, to Iohn Earle of <hi>Lowdon,</hi> Lord High Chaun<g ref="char:EOLhyphen"/>cellor of this Kingdome, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou shall with all earnestnesse intreat his Majestie and Parliament of England, that Episcopacy may be totally removed, and that there may be unity of Religion, and uniformity of Kirk-governement in all his Majesties Dominions, which be the late Treaty betwixt the Kingdomes, and by our Commission we find our selves warranted and obliged by all good means to endeavour upon the reasons and grounds ex<g ref="char:EOLhyphen"/>prest in our former desires, given in in name of this Kingdome, the time of the Treaty, and in the Remonstrances sent from the Parliament of England to the generall Assembly of the Kirk of Scotland, and the Supplications and Declarati<g ref="char:EOLhyphen"/>ons sent from the generall Assembly and their Commissioners to the Kings Ma<g ref="char:EOLhyphen"/>jesty
+<pb n="10" facs="tcp:158420:7"/>&amp; both Houses of Parliament, and which was seconded with the earnest recommendation of his Majesties privie Councell, and is now renewed by Petiti<g ref="char:EOLhyphen"/>on from the Commissioners of the Generall Assembly; the desire whereof you shall assist. And to this effect you shall sollicite his Majesty and both Houses of Parliament for a meeting of sound Divines of both Kingdoms, who may prepare matters for the consideration of his Majestie and Parliament, and of more full Assemblies.</p>
+            <p>You shall shew, that although we neither should, nor will stretch our selves be<g ref="char:EOLhyphen"/>yond our line, to judg of the laws &amp; proceedings of another Kingdom, nor take upon us to decide the differences betwixt the Kings Majestie and Parliament of England: Yet we are so nearly interested in the safety of his Majesties Royall Person, and just Authority, and in the preservation of the Liberty and Peace of the Kingdom of England, more fully exprest in our Letter and Declaration of the 29. of <hi>September</hi> last, that we cannot be answerable to our manifold obliga<g ref="char:EOLhyphen"/>tions, and the trust reposed in us by his Majesty and Parliament of this King<g ref="char:EOLhyphen"/>dome, if wee should not endeavour by all meanes the removall of these unhappy differences betwixt his Majestie and his Houses of Parliament.</p>
+            <p>You shall therfore humbly entreat, and earnestly labour, that his Majesty and the Honourable Houses of Parliament may in the deep of their wisedom take such fair and compendious wayes as may remove the causes and occasions of these troubles, without the effusion of more bloud, and that there may be a more pea<g ref="char:EOLhyphen"/>ceable and amicable decision, then by the sword which cannot but be the occasi<g ref="char:EOLhyphen"/>on of great jealousies and feares to all his Majesties good Subjects, and tend to the endangering of his Royall Person and Kingdomes.</p>
+            <p>And that there may be a right understanding betwixt His Majesty and Parli<g ref="char:EOLhyphen"/>ament, you shall shew, that it is earnesty wished and desired, that the Honoura<g ref="char:EOLhyphen"/>ble Houses of Parliament would think and resolve upon the fittest wayes, for re<g ref="char:EOLhyphen"/>moving of all prejudices and mistakes, and leave no good nor fair means unassay<g ref="char:EOLhyphen"/>ed which may witnesse their high tender respect of his Majesties sacred Person &amp; Royall greatnesse, and may induce his Majestie to return to his Parliament, that they may be honoured and strengthned with his Royall presence.</p>
+            <p>You shall likewise from the deep sense we have of the danger of His Majesties Royall Person and the ruine where with his Kingdomes are threatned, shew his Majestie, that it is our humble desire, and faithfull advice, that (the impediments which keepe his Majestie and his Parliament at such a distance being removed) his Majestie may graciously be pleased to hearken to the invitations of His Parli<g ref="char:EOLhyphen"/>ment, that there might be such a mutuall confidence, as his Majestio may returne to his Parliament, which is his great and most impartiall Councell, that by a hap<g ref="char:EOLhyphen"/>py conjunction with them, If the great and publick affairs of that Kingdom may be so setled, as may tend most to his Majesties Honour, the maintenance of His just Authority, the preservation of the priviledges of Parliament, the liberty of the Subject, and prosperity of his Majesties Kingdomes.</p>
+            <pb n="11" facs="tcp:158420:7"/>
+            <p> In regard not only of the great impediment to the Work of Reformation, but also of the evident danger of the Protestant Religion, by Papists in Arms within his Majesties Dominions, as was more fully remonstrate unto us by petitions from the Kirk, and from the Gentry, which we cannot but acknowledg. You shal deal earnestly that all Papists now aloft and in arms in England, be disarmed &amp; disbanded out of any armies, wherein they are; and especially those in the Ea: of New-castles army, because the most part thereof have bin levied, and have their residence near our borders, &amp; may do us greater prejudice, nor Garisons in Bar<g ref="char:EOLhyphen"/>wick and Carlile, which yet were expressy contrary to the last Treaty.</p>
+            <p>You shall shew his Majesty, That as we are obliged by our Commission to be carefull that the peace betwixt the Kingdomes may be continued, and when any debate or difference doth arise to the disturbance of the common peace, to labour to remove and compose the same according to our power; so when any thing fals out beyond our power, and cannot be remedied by us, wee are bound to present the same to his Majestie, and the next ensuing Parliament <hi>respective,</hi> That by his Majesties authority and theirs, the peace of the Kingdomes may be perpetua<g ref="char:EOLhyphen"/>ted to all posterity. And therefore seeing we conceive the removing of the present distractions, to be a worke of difficulty beyond our power &amp; greater then can be by us remedied, and may come to that height before the next Trienniall Parlia<g ref="char:EOLhyphen"/>ment, that any remidie that can come thereby will prove too late. You shall therfore in all humility beseech his Majestie, according to His gracious promise exprest in the late Parliament, presently to indict a new Parliament, to als short a day as upon warrant from his Majestie, the Subjects may bee lawfully warned thereto, that by their wisedome and care, some good meanes may be found out, whereby the occasion and causes of these troubles which have already shaken, and do threaten the overthrow of our common peace, may (als far as is possible) be removed, and the calamities like to ensue thereby, timously prevented.</p>
+            <p>Concerning the time of moving this demand, if you find the offer of our service acceptable, and that the King, and Parliament are vpon accommo<g ref="char:EOLhyphen"/>dation, and like to agree, you may forbeare the proponing of it. But if you find that His Majesty and the Parliament are not like to agree in hast, then you shall instantly without delay, desire that a Parliament be present<g ref="char:EOLhyphen"/>ly indicted, as is above exprest.</p>
+            <p>You shall be carefull, that the whole Articles of the former Treaty may be observed, and make the best use thereof, for removing of all differences, and impediments, and for continuing of the Peace and Vnion betwxt the Kingdomes.</p>
+            <p>You shall adhere closely and positively an our desires for removall of Episcopacy, and other impediments for unity of Religion, and uniformity of Kirk-government: But concerning differences betwixt His Majesty, and the Houses of Parliament, about particulars or persons in matters civill, you shall desire and indeavour, that the Parliament may out of their wise<g ref="char:EOLhyphen"/>dome, love to peace, and respect to His Majesty, give him all satisfaction,
+<pb n="12" facs="tcp:158420:8"/>so far as may stand with their Religion and Liberties. And that His Ma<g ref="char:EOLunhyphen"/>jesty may in things which may stand with His Honour and just Authority give contentment to the Parliaments, and make himselfe more happy in the affections of His people, which is the best way of glory and greatnesse to his Majesty, and prosperity to his Kingdomes.</p>
+            <p>Seeing there can be no relation more near, nor society more comfortable than that Conjuncton which is betwixt the Kings Majesty and his Royal Consort the Queen, and that her Majesty so long absence cannot but be grie<g ref="char:EOLhyphen"/>vous to both; you shall therefore shew our humble and earnest desires to his Majesty for the Queen her speedy returne to England: And having obtai<g ref="char:EOLhyphen"/>ned his Majesties have and approbation, you shall desire the Honourable Houses of Parliament may be pleased to joyn with us in dealing with her Majesty, and inviting her for this effect: which as it is an humble and duti<g ref="char:EOLhyphen"/>full expression of the love and tender respect of both Kingdomes; so doe we conceive, that it may be a powerfull mean to contribute to that more full and hearty agreement, which we and all his Majesties good Subjects doe wish betwixt his Majesty, and his Parliament.</p>
+            <p>You shall likewise represent to his Majesty, that the Commissioners have taken speciall notice of his Majesties excepting Sir <hi>Arch: Iohnstoun</hi> of wa<g ref="char:EOLhyphen"/>ristoun out of the safe conduct, and humbly to desire that his Majesty may take into his Royal consideration, of what consequence may be, and what prejudice it may produce in the opinion of his good Subjects, if any who are intrusted in the publick Affairs of this Kingdome, authorized thereto by his Majesty and Parliament, shall upon private and particular information be rendred incapable of that trust, or put out of his Majesties protection, before a legall processe be made, and sentence past against them, and which you shall urge upon the reasons and grounds you have here debated. And we desire that you may humbly beseech his Majesty (who we are confident is, and ever will be most tender of the priviledg of Parliament, and liberty of the Subject) nay be graciously pleased to remove this stop, since we have made choyce of him, as of one who hath given suff cient proof of his fidelity, and hath never to our knoledge done any thing to the prejedice of his Ma<g ref="char:EOLhyphen"/>jesties Royal Person, Honour, or Authority.</p>
+         </div>
+         <div type="letter">
+            <head>The Commisioners Letter Sent to his Majesty with the Lord Chancellour. Most Sacred Soveraigne.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S our ardent &amp; earnest desire of the honour of God, of your Majesties safety and happinesse, and of the Peace of your Kingdomes, moved us your Majesties most humble and loving Subjects, accordi g to our Comission, and the trust reposed in us, by your Majesty and your Parli<g ref="char:EOLhyphen"/>ament, in such an exigence and extremity to offer our selves and our best en<g ref="char:EOLhyphen"/>deavours for composing and removing these unhappy differences betwixt your Majesty and your Houses of Parliament; and therefore to importune your Majesty for a safe conduct: So having of your Majesties Royal grace and goodnesse received the same from the hand of the Lord Secretary, we have after long consultations in severall meetings, made choyce of some of
+<pb facs="tcp:158420:8"/>our own number, <hi>Iohn</hi> Earl of <hi>Lowdoun,</hi> Lord High Chancellour, <hi>Iohn</hi> Earl of <hi>Lindsay,</hi> Sir <hi>Archibald Iohnstoun,</hi> and Master <hi>Robert Barclay;</hi> whom we do in all humility and earnestnesse recommend to your Majesties favourable acceptance, and do intreat, that your Majsty may be pleased to hearken to our counsells and overtures, where with they are intrusted, as proceeding from honest and loyall hearts, desiring nothing more, then that God may be honoured in your Majesties greatnesse, and the prosperous estate of your Dingdomes, and which we are very consident, will carry along with them the prayers and desires of the whol body of this your Majesties native King<g ref="char:EOLhyphen"/>dome, extreamely longing far the happy and of the present troubles, which after a speciall manner should be, &amp; is the desire of your most humble, faith<g ref="char:EOLhyphen"/>full, and dutifull Subjects and servants.</p>
+            <closer>
+               <dateline>
+                  <hi>Edinb.</hi>
+                  <date>18. <hi>Ian.</hi> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>The Declaration of the Commissioners appointed by the Kings Majesty and Parliament of Scotland, for conserving the Articles of Treaty, and Peace betwixt the two Kingdomes, met at Edinburgh. <hi>18.</hi> Ian. <hi>1643.</hi>
+            </head>
+            <opener>
+               <salute>To the Honourable Houses of the Parliament of England.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Othing on earth can be more grievious unto us and this whole Kirk and Kingdome, then the un-naturall and un-happy differences in England, and the so long lasting troubles and sufferings of our na<g ref="char:EOLhyphen"/>tive King, and out brethren in that Kingdome, to the effusion of brittish &amp; Christian blood, the great offence of the neighbouring Kirks and King<g ref="char:EOLhyphen"/>domes, and to the hinderance of the so much and universally desired Refor<g ref="char:EOLhyphen"/>mation of Religion. The sense of these great miseries, and the feare of grea<g ref="char:EOLhyphen"/>ter, imminent to both Kingdomes, suffered us not to rest, till accoding to our Commission, and the trust reposed in us, we made offer of ourselves, and all that is in our power, for remedying of so great evills, and removall of so heavy and deplorable calamities. For which end, as we were earnest, by reason of the present posture of that Kingdome, to have a safe conduct from the Kings Majesty and the Houses of Parliament: so having obtained the same of both, our restles desires to contribute our utmost endeavours in so pi us and pressing a duty did increase upon us, and become more ardent then before; which hath made us after so much agitation of so weighty &amp; impor<g ref="char:EOLhyphen"/>tant affaires, resolve to send some of our own number, with such Instructi<g ref="char:EOLhyphen"/>ons and overtures, as we Iudge most convenient for the good of Religion, the Kings Honour, the pacification of the Kingdome of England, and the Peace of both Kingdomes.</p>
+            <p>And therefore as we doe earnestly recommend the Persons which carry our de<g ref="char:EOLhyphen"/>sires to the kindnesse and care of the Honourable Houses of Parliament; so do we intreat, and expect from their wisedome and goodnes that our Counsell &amp; desires may find acceptance, as proceeding from such a Christian and brotherly affection, as desireth nothing more, then the glory and honour of God, the greatnesse and happinesse of the King, and the peace and prosperity of his Kingdomes, And wch we are assured being hearkened unto by the Honourable Houses of Parliament, will give great satisfaction and content to this whole Nation extreamely longing for a comfortable close of the present troubles, that by unity of Religion, and a well grounded peace in themselves, and either with other, the two Kingdoms may
+<pb facs="tcp:158420:9"/>be frimely united, and strongly established against all intestine division, and s<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>raign power under his Majesty as one Head and Monarch, whom God Almighty save and graciously give in Religion, Righteousnesse and Peace long to raigne over vs.</p>
+         </div>
+         <div type="letters">
+            <head>The Councels two Letters to His Majesty.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Most sacred Soveraigne.</salute>
+                  </opener>
+                  <p>WE cannot cease from representing to Your Majesty from time to time, what may conduce for the good of Religion, Your Majesties honour, and the good of your Kingdomes. A Petition hath bin lately presented to us from the Commissioners of the Generall Assembly, earnestly entreating for our recommen<g ref="char:EOLhyphen"/>dation of their humble supplication to Your Majesty, for unity of Religion and Kirk-government in Your Majesties Dominions, for a meeting of judicious and sound Divines to that effect, and for removing of all impediments of the one or of the other, with such other particulars as the suplication it selfe doth beare: Which although formerly recommended by us to your Majesty, yet considering them to be matters so pious in themselves, and of more nor ordinary importance to your Majesty and your Dominions, we are imboldned of new most humbly to begge your Majesties favourable acceptance, both to the Bearer M. <hi>Alexander Hender<g ref="char:EOLhyphen"/>son,</hi> who is not unknown to your Majesty, and to the humble desires of the sup<g ref="char:EOLhyphen"/>plication, as arising from no other Originall, then doth our recommendation, the zeale of the true Religion, the tender care of your Majesties happines, and the love of the publick: Which is, and ever shall bee the greatest ambition of your Maje<g ref="char:EOLhyphen"/>sties most humble and faithfull Servants and Subjects.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Edinburgh</hi>
+                        <date>24. 1643.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Most sacred Soveraigne.</salute>
+                  </opener>
+                  <p>WEe make no new motion to Your sacred Majesty at this time: We onely renew our former desires and prayers for your Majesties happinesse and preservation, in the midst of so many dangers, and for the peace of your Kingdoms. extreamely desired and longed for by us, and all your Majesties good Subjects of his Kingdome. And knowing that for these desirable ends, the Commissioners for concerving the Peace betwixt Your Majesties two Kingdoms of Scotland and England (of which number some of us, who are honoured to bee your Majesties Counsellours make a great part) upon the receipt of Your Majesties safe con<g ref="char:EOLhyphen"/>duct have resolved to send some from them to your Majesty, and your Parliament. We could not of duty, but recommend to your Majesties gracious acceptance, both the Persons and their Commission, and in all humility and earnestnesse of heart, intreat that your Majesty may be pleased to give care unto their desires which they are trusted to represent, as comming from no other fountaine, then zeale to God, and innate love to your Majesty, and running to no other end, then that God may bee honoured in your Majesties glory, and the greatnesse of your Kingdome, and which we know, will strongly carry along with them the affecti<g ref="char:EOLhyphen"/>ons, desires, and endeavours of this whole Kirk and Kingdom, impatient till they heare of the setling of these unhappy and comfortlesse commotions. In which dis<g ref="char:EOLhyphen"/>position of heart it becomes us to be als far before all others, as we have above all others the trust and honour to be upon your Majesties Counsell, and after a speci<g ref="char:EOLhyphen"/>all manner to approve our selves your Majesties most humble and faithfull sub<g ref="char:EOLhyphen"/>ects and servants.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
